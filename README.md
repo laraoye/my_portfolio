@@ -1,6 +1,7 @@
 <div align="center">
   <br />
-  <a href="https://codewithty.dev/" target="_blank">
+  <a href="https://yemi.wuaze.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4CAF50?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Portfolio" />
   </a>
   <br />
 
@@ -19,90 +20,78 @@
     </a>
   </div>
 
-  <h3 align="center">CodeWithTy Developer Portfolio Template</h3>
-  <p align="center">A modern, professional, and tech-focused portfolio template built for developers who want to showcase their skills and projects with style. Perfect for tech enthusiasts, web developers, and cybersecurity professionals.</p>
+  <h3 align="center">Adekola Yemi</h3>
+  <p align="center">A modern, professional portfolio showcasing my skills and projects as a developer. Built with cutting-edge technologies and designed to demonstrate my expertise in web development and technology solutions.</p>
 </div>
 
 ## 📋 Table of Contents
 
-1. 💡 [Why This Project?](#why-this-project)
+1. 🙋‍♂️ [About Me](#about-me)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🛠️ [Features](#features)
 4. 🚀 [Getting Started](#getting-started)
-5. 🌟 [Portfolio Inspiration](#portfolio-inspiration)
-6. 🎓 [About CodeWithTy](#about-codewithty)
-7. 📝 [More Resources](#more-resources)
+5. 🌟 [Live Portfolio](#live-portfolio)
+6. 📁 [Project Structure](#project-structure)
+7. 📝 [Contact](#contact)
 
-## 💡 Why This Project?
+## 🙋‍♂️ About Me
 
-Hey there, future tech leader! 👋
+Hello! I'm **Adekola Yemi**, a passionate developer focused on creating innovative web solutions and leveraging modern technologies to solve real-world problems. My portfolio showcases my journey in software development, featuring projects that demonstrate my skills in various domains of technology.
 
-At CodeWithTy, we believe that every developer deserves a portfolio that truly represents their skills and potential. Whether you're just starting your coding journey or you're a seasoned professional looking to showcase your expertise in web development, cybersecurity, blockchain, or mobile development - this template has got you covered.
-
-We've seen too many talented developers struggle with creating the perfect portfolio, spending more time on design than actually building amazing projects. That's why we created this **modern, responsive, and professional** template that lets your work speak for itself.
+Visit my live portfolio at: **[yemi.wuaze.com](https://yemi.wuaze.com/)**
 
 ## ⚙️ Tech Stack
 
-Built with the same cutting-edge technologies we teach at CodeWithTy:
+This portfolio is built with modern, production-ready technologies:
 
-- **Next.js 14**: The React framework for production-grade applications
-- **Framer Motion**: Smooth, professional animations that impress recruiters
-- **TailwindCSS**: Utility-first CSS for rapid, responsive design
-- **TypeScript**: Type-safe development for enterprise-quality code
-- **Modern Web Standards**: Built with accessibility and performance in mind
+- **Next.js 14**: React framework for scalable web applications
+- **Framer Motion**: Professional animations and smooth transitions
+- **TailwindCSS**: Utility-first CSS framework for responsive design
+- **TypeScript**: Type-safe development for robust applications
+- **Modern Web Standards**: Optimized for performance and accessibility
 
 ## 🛠️ Features
 
-✨ **Responsive Design**: Looks amazing on desktop, tablet, and mobile devices
+✨ **Responsive Design**: Seamlessly adapts to all screen sizes and devices
 
-🎨 **Professional UI/UX**: Clean, modern design that highlights your technical skills
+🎨 **Modern UI/UX**: Clean, professional design that showcases technical expertise
 
-🔐 **Security-First**: Built with best practices for web security (just like we teach!)
+🚀 **Performance Optimized**: Fast loading times with excellent Core Web Vitals
 
-🚀 **Performance Optimized**: Fast loading times and smooth interactions
+🎬 **Smooth Animations**: Engaging motion design using Framer Motion
 
-🎬 **Smooth Animations**: Professional motion design that sets you apart
+💼 **Comprehensive Sections**:
+- Hero section with dynamic introduction
+- Skills and technologies showcase  
+- Featured projects with detailed descriptions
+- Professional experience timeline
+- Contact information and links
 
-🔧 **Developer Experience**: Clean code structure, easy to customize and extend
-
-💼 **Portfolio Sections**:
-
-- Hero section with animated introduction
-- Skills showcase for multiple tech domains
-- Project gallery with detailed case studies
-- Experience timeline
-- Contact form with modern styling
-
-🌟 **Multi-Domain Focus**: Perfect for showcasing skills in:
-
-- Web Development
-- Cybersecurity
-- Blockchain & Smart Contracts
-- Mobile App Development
-- Data Analysis
-- Tech Consulting
+🔧 **Developer-Friendly**: 
+- Clean, maintainable code structure
+- Easy to customize and extend
+- Well-documented components
 
 ## 🚀 Getting Started
 
-Ready to build your professional portfolio? Let's get you set up in minutes!
+Want to use this template for your own portfolio? Here's how to get started:
 
 ### Prerequisites
 
-Make sure you have these tools installed:
-
-- [Git](https://git-scm.com/) - Version control
+Ensure you have the following installed:
+- [Git](https://git-scm.com/) - Version control system
 - [Node.js](https://nodejs.org/) (v18 or higher) - JavaScript runtime
 - [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) - Package manager
 
-### Clone the Repository
+### Installation
 
+1. **Clone the repository**
 ```bash
-git clone https://github.com/codewithty/portfolio-template.git
-cd codewithty-portfolio-template
+git clone https://github.com/your-username/yemi-portfolio.git
+cd yemi-portfolio
 ```
 
-### Install Dependencies
-
+2. **Install dependencies**
 ```bash
 # Using npm
 npm install
@@ -111,15 +100,13 @@ npm install
 yarn install
 ```
 
-### Customize Your Content
+3. **Customize your content**
+- Update `src/data/index.ts` with your personal information
+- Add your projects and experience details
+- Replace images in `public/assets/` with your own
+- Customize colors and styling in `tailwind.config.js`
 
-1. Update `src/data/index.ts` with your information
-2. Add your projects to `src/data/index.ts`
-3. Customize colors in `tailwind.config.js`
-4. Replace images in `public/assets/`
-
-### Run the Development Server
-
+4. **Run the development server**
 ```bash
 # Using npm
 npm run dev
@@ -128,91 +115,78 @@ npm run dev
 yarn dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to see your portfolio come to life! 🎉
+5. **Open your browser**
+Navigate to [http://localhost:3000](http://localhost:3000) to see your portfolio!
 
-### Deploy Your Portfolio
+### Deployment
 
-Deploy easily to:
-
+Deploy your customized portfolio to:
 - **Vercel** (Recommended): `vercel --prod`
-- **Netlify**: Connect your GitHub repo
-- **GitHub Pages**: Use the included GitHub Actions workflow
+- **Netlify**: Connect your GitHub repository
+- **GitHub Pages**: Use the included workflow
 
-## 🌟 Portfolio Inspiration
+## 🌟 Live Portfolio
 
-Check out these amazing portfolios built by us:
+Check out my live portfolio at: **[yemi.wuaze.com](https://yemi.wuaze.com/)**
 
-- [Tech Professional Examples](https://codewithty.dev/projects) - Industry-standard portfolio designs
+Features you'll find:
+- Interactive project showcases
+- Detailed skill presentations
+- Professional experience overview
+- Contact form and social links
 
-## 🎓 About CodeWithTy
+## 📁 Project Structure
 
-**CodeWithTy** is more than just a coding education platform - we're a community of tech enthusiasts, problem solvers, and future innovators. We specialize in:
+```
+├── public/
+│   ├── assets/          # Images and static assets
+│   └── favicon.ico      # Site favicon
+├── src/
+│   ├── components/      # Reusable React components
+│   ├── data/           # Site content and configuration
+│   ├── pages/          # Next.js pages
+│   └── styles/         # Global styles
+├── tailwind.config.js  # Tailwind CSS configuration
+├── next.config.js      # Next.js configuration
+└── package.json        # Dependencies and scripts
+```
 
-🌐 **Web Development**: Building responsive, interactive websites with modern frameworks
+## 📝 Contact
 
-🔒 **Cybersecurity**: Protecting systems and data from cyber threats
+Ready to connect? Reach out to me:
 
-⛓️ **Blockchain Development**: Creating decentralized applications and smart contracts
-
-📱 **Mobile App Development**: Native and cross-platform mobile solutions
-
-📊 **Data Analysis**: Turning data into actionable business insights
-
-💼 **Tech Consulting**: Strategic technology guidance for businesses
-
-### Why Choose CodeWithTy?
-
-✅ **Expert-Led Training**: Learn from industry professionals with real-world experience
-
-✅ **Hands-On Projects**: Build actual applications, not just tutorials
-
-✅ **Community Support**: Join a network of learners and professionals
-
-✅ **Career Guidance**: From portfolio building to job placement assistance
-
-✅ **Cutting-Edge Curriculum**: Stay updated with the latest tech trends
-
-Ready to join our community? **[Start your journey with CodeWithTy](https://codewithty.dev/contact)**
-
-## 📝 More Resources
-
-### Learning Resources
-
-- [CodeWithTy Academy](https://codewithty.dev/academy) - Comprehensive tech courses
-- [Next.js Documentation](https://nextjs.org/docs) - Framework documentation
-- [Framer Motion Guide](https://www.framer.com/motion/) - Animation library
-- [TailwindCSS Docs](https://tailwindcss.com/docs) - Styling framework
-
-### Support
-
-- 📧 Email: [hello@codewithty.dev](mailto:hello@codewithty.dev)
-- 🌐 Website: [codewithty.dev](https://codewithty.dev)
-- 📱 Follow us on social media for tips and updates
+- 🌐 **Portfolio**: [yemi.wuaze.com](https://yemi.wuaze.com/)
+- 📧 **Email**: [Contact through portfolio](https://yemi.wuaze.com/)
+- 💼 **LinkedIn**: [Connect with me](https://yemi.wuaze.com/)
+- 🐱 **GitHub**: [View my repositories](https://yemi.wuaze.com/)
 
 ---
 
 ## 🤝 Contributing
 
-We love contributions from our community! Whether it's:
+If you'd like to contribute to this portfolio template:
 
-- 🐛 Bug fixes
-- ✨ New features
-- 📖 Documentation improvements
-- 🎨 Design enhancements
-
-Feel free to open issues and submit pull requests. Let's build amazing things together!
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
 ## 📄 License
 
-This project is licensed under the CWT License.
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
 <div align="center">
   
-  <p><em>"Empowering the next generation of tech innovators"</em></p>
+  <p><em>"Building the future, one line of code at a time"</em></p>
   
-  <a href="https://codewithty.dev">
-    <img src="https://img.shields.io/badge/Visit%20CodeWithTy-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Visit CodeWithTy" />
+  <a href="https://yemi.wuaze.com/">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4CAF50?style=for-the-badge&logo=globe&logoColor=white" alt="Visit Portfolio" />
   </a>
 </div>
+
+---
+
+**Built with ❤️ by Adekola Yemi**
