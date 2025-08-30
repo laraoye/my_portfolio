@@ -134,7 +134,7 @@ Ready to connect? Reach out to me:
 - 🌐 **Portfolio**: [yemi.wuaze.com](https://yemi.wuaze.com/)  
 - 📧 **Email**: [Contact through portfolio](https://yemi.wuaze.com/)  
 - 💼 **LinkedIn**: [Connect with me](https://yemi.wuaze.com/)  
-- 🐱 **GitHub**: [View my repositories](https://yemi.wuaze.com/)  
+- 🐱 **GitHub**: [View my repositories](https://github.com/laraoye?tab=repositories/)  
 
 ---
 
