@@ -6,33 +6,11 @@
   <br />
 
   <div>
-    <a href="https://nextjs.org/" target="_blank">
-      <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
-    </a>
-    <a href="https://www.framer.com/motion/" target="_blank">
-      <img src="https://img.shields.io/badge/-Framer-black?style=for-the-badge&logoColor=white&logo=framer&color=0055FF" alt="framer" />
-    </a>
-    <a href="https://tailwindcss.com/docs" target="_blank">
-      <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    </a>
-    <a href="https://laravel.com/" target="_blank">
-      <img src="https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logoColor=white&logo=laravel&color=FF2D20" alt="laravel" />
-    </a>
-    <a href="https://www.wordpress.org/" target="_blank">
-      <img src="https://img.shields.io/badge/-WordPress-black?style=for-the-badge&logoColor=white&logo=wordpress&color=21759B" alt="wordpress" />
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank">
-      <img src="https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logoColor=white&logo=tensorflow&color=FF6F00" alt="tensorflow" />
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-      <img src="https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logoColor=white&logo=pytorch&color=EE4C2C" alt="pytorch" />
-    </a>
-    <a href="https://ethereum.org/" target="_blank">
-      <img src="https://img.shields.io/badge/-Ethereum-black?style=for-the-badge&logoColor=white&logo=ethereum&color=3C3C3D" alt="ethereum" />
-    </a>
+   
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
   </div>
 
   <h3 align="center">Adekola Yemi</h3>
