@@ -19,20 +19,16 @@ const About = () => (
         duration={Math.floor(Math.random() * 10000) + 10000}
         className="flex-col text-left p-3 md:p-5 lg:p-10 gap-5 min-h-full"
       >
-        <p>
-          Hey! I&apos;m <strong>(Oyeyemi)</strong> a web designer, developer,
-          and movie enthusiast.
-        </p>
-        <p>
-          With a background that blends design and development, I love creating
-          beautiful, functional digital experiences. I’m passionate about
-          crafting things that not only work well but feel great to use.
-        </p>
-        <p>
-          I’m always up for great conversations, whether it’s about a new
-          project, tech trends, or even the latest action flick. Feel free to
-          reach out. Let’s connect!
-        </p>
+       <p>
+  Hey! I&apos;m <strong>Oyeyemi</strong> — a developer, designer, and curious mind.
+</p>
+<p>
+  Beyond code, I enjoy designing clothes, watching movies, and exploring how creativity and technology shape everyday life.
+</p>
+<p>
+  Always open to connect, share ideas, and build something meaningful.
+</p>
+
       </Sparkle>
 
       <div className="relative overflow-hidden rounded-3xl border border-white/[0.1] transition duration-200 shadow-input dark:shadow-none flex flex-col space-y-4 p-10">

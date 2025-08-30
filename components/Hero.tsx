@@ -18,18 +18,22 @@ const Hero = () => {
           <h1 className="text-center text-4xl md:text-6xl lg:text-8xl font-extrabold">
             Hey, I&apos;m {""}
             <span className="bg-gradient-to-r from-purple to-red-700 bg-clip-text text-transparent">
-             John Doe
+             Oyeyemi Adekola Balikis
             </span>
           </h1>
         </Reveal>
         <h2 className="title my-6 text-xl md:text-3xl lg:text-5xl">
-          I&apos;m a CWT Developer
+          I&apos;m a Developer and Researcher
         </h2>
         <p className="max-w-[700px] mx-auto">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-          officiis, eum modi inventore natus velit voluptates laudantium nam
-          dicta? Et, sint sed? Ab consequuntur commodi et beatae animi
-          repellendus officia!
+          I’m passionate about building scalable web applications and exploring
+  innovative technologies that solve real-world problems. With a strong
+  foundation in software development and research, I enjoy working on projects
+  that blend creativity, functionality, and emerging tech. My interests range
+  from AI-powered solutions to decentralized applications, and I’m always eager
+  to learn, experiment, and contribute to meaningful innovations. <br /><br />
+  Beyond coding, I love inspiring and mentoring young people to explore, learn,
+  and create new ideas that can positively impact the world.
         </p>
         <a className="mt-10 mx-auto" href="#contact">
           <Button

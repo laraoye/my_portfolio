@@ -32,16 +32,18 @@ export const myTechStack = [
 export const projects = [
   {
     id: 1,
-    title: "FitLorem: Your Lorem Buddy in Code",
+    title: "Educational Data Audit Trail with Blockchain",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatumofficiis, eum modi inventore natus velit voluptates laudantium nam!",
+      "A research project exploring how blockchain and federated learning can secure educational data. The system provides immutable audit logs of data access events, ensuring compliance with NDPR/NDPA. It also uses smart contracts for access permissions and includes a simple dashboard for administrators.",
     className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
     titleClassName: "justify-end",
-    img: "https://i.pinimg.com/originals/be/f4/1a/bef41a7d5a877841bbf7d8f9f0d42f14.gif",
-    github: "https://github.com/codewithty",
-    link: "https://www.instagram.com/codewithty",
-    techs: ["JavaScript", "React", "NodeJS", "Express", "MongoDB", "Tailwind"],
+    img: "https://i.pinimg.com/originals/be/f4/1a/bef41a7d5a877841bbf7d8f9f0d42f14.gif", 
+    github: "https://github.com/laraoye/my_portfolio", 
+    link: "https://www.instagram.com/yemibx", 
+    techs: ["Ethereum", "Polygon", "Solidity", "Web3.js", "React", "Federated Learning"],
   },
+
+
   {
     id: 2,
     title: "TimeLorem: Never Miss a Lorem Ipsum",
