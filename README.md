@@ -132,7 +132,7 @@ Features you'll find:
 Ready to connect? Reach out to me:
 
 - 🌐 **Portfolio**: [yemi.wuaze.com](https://yemi.wuaze.com/)  
-- 📧 **Email**: [Contact through portfolio](adekolayemi25@gmail.com)  
+📧 **Email**: [adekolayemi25@gmail.com](mailto:adekolayemi25@gmail.com)
 - 💼 **LinkedIn**: [Connect with me](https://yemi.wuaze.com/)  
 - 🐱 **GitHub**: [View my repositories](https://github.com/laraoye?tab=repositories/)  
 
