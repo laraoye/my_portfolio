@@ -101,7 +101,7 @@ This portfolio and my projects are built with a broad set of modern, production-
 
 ## 🚀 Getting Started
 
-... _(same as before)_  
+Ready to build your professional portfolio? Let's get you set up in minutes!
 
 ## 🌟 Live Portfolio
 
@@ -116,8 +116,17 @@ Features you'll find:
 
 ## 📁 Project Structure
 
-... _(same as before)_  
-
+├── public/
+│   ├── assets/          # Images and static assets
+│   └── favicon.ico      # Site favicon
+├── src/
+│   ├── components/      # Reusable React components
+│   ├── data/           # Site content and configuration
+│   ├── pages/          # Next.js pages
+│   └── styles/         # Global styles
+├── tailwind.config.js  # Tailwind CSS configuration
+├── next.config.js      # Next.js configuration
+└── package.json        # Dependencies and scripts
 ## 📝 Contact
 
 Ready to connect? Reach out to me:
